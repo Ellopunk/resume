@@ -40,10 +40,11 @@
 
 ### Technical 
 
-* Linux Operating System *
+* Linux Operating System 
     * RedHat and Debian based distros. 
 * Versioning - Github 
-
+* Understanding of Cloud Technology Concepts 
+    * OpenStack, Rackspace Cloud, AWS, Azure 
 
 ## CERTIFICATIONS
 
