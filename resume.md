@@ -7,10 +7,10 @@
     * Participated in Jupiter Broadcasting Podcast 
 
 * **Linux Academy- Technical Evangelist**  Jul 2018 – Dec 2018
-    * Created content for Linux Academy. 
+    * Develop e-learning content inclduing instructional videos, quizzes and study guides.  
         * [Essential Container Concepts](https://linuxacademy.com/linux/training/course/name/essential-container-concepts)
         * [Docker Quick Start ](https://linuxacademy.com/devops/training/course/name/docker-quick-start)
-    *  Attended conferences, meetups and other group gatherings speaking on a variety of subjects.
+    *  Attended and participate in conferences, meetups and other group gatherings speaking on a variety of subjects.
     *  Engaged students in public forums offering assistance in their education. 
 
 
