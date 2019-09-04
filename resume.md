@@ -3,8 +3,10 @@
 * **Community Architect**  Jan 2019 – Present
     * Created content for the Community
         * [Study Groups](https://www.youtube.com/playlist?list=PLUW3LUwQvegwm3L5fxnI9eqD1SPYl-m6b)
-    * Attend conferences, meetups and other group gatherings in a variety of subjects.
+        * [Study corner](studycorner.live)
+    * Participate in conferences, meetups and other group gatherings in a variety of subjects.
     * Participated in Jupiter Broadcasting Podcast 
+      * [Choose Linux](https://chooselinux.show/)
 
 * **Linux Academy- Technical Evangelist**  Jul 2018 – Dec 2018
     * Develop e-learning content inclduing instructional videos, quizzes and study guides.  
@@ -54,4 +56,9 @@
 2016-Present
 * RedHat Certified System Administrator & Engineer 
 2014-2017
+
+## Website(s)
+
+* [Current website project- ellslittle.website](ellslittle.website)
+* [Static site- ellopunk.com](ellopunk.com)
 
