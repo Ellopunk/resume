@@ -3,7 +3,7 @@
 * **Community Architect**  Jan 2019 – Present
     * Created content for the Community
         * [Study Groups](https://www.youtube.com/playlist?list=PLUW3LUwQvegwm3L5fxnI9eqD1SPYl-m6b)
-        * [Study corner](studycorner.live)
+        * [Study corner](http://studycorner.live)
     * Participate in conferences, meetups and other group gatherings in a variety of subjects.
     * Participated in Jupiter Broadcasting Podcast 
       * [Choose Linux](https://chooselinux.show/)
