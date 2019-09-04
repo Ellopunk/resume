@@ -3,7 +3,7 @@
 * **Community Architect**  Jan 2019 – Present
     * Created content for the Community
         * [Study Groups](https://www.youtube.com/playlist?list=PLUW3LUwQvegwm3L5fxnI9eqD1SPYl-m6b)
-        * [Study corner](http://studycorner.live)
+        * [Study Corner](http://studycorner.live)
     * Participate in conferences, meetups and other group gatherings in a variety of subjects.
     * Participated in Jupiter Broadcasting Podcast 
       * [Choose Linux](https://chooselinux.show/)
@@ -43,7 +43,7 @@
 ### Technical 
 
 * Linux Operating System 
-    * RedHat and Debian based distros. 
+    * Red Hat and Debian based distros. 
 * Versioning - Github 
 * Understanding of Cloud Technology Concepts 
     * OpenStack, Rackspace Cloud, AWS, Azure 
