@@ -59,6 +59,6 @@
 
 ## Website(s)
 
-* [Current website project- ellslittle.website](ellslittle.website)
-* [Static site- ellopunk.com](ellopunk.com)
+* [Current website project- ellslittle.website](https://ellslittle.website)
+* [Static site- ellopunk.com](http://ellopunk.com)
 
