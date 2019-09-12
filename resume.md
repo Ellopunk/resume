@@ -9,11 +9,11 @@
       * [Choose Linux](https://chooselinux.show/)
 
 * **Linux Academy- Technical Evangelist**  Jul 2018 – Dec 2018
-    * Develop e-learning content inclduing instructional videos, quizzes and study guides.  
+    * Develop e-learning content, including instructional videos, quizzes, and study guides.  
         * [Essential Container Concepts](https://linuxacademy.com/linux/training/course/name/essential-container-concepts)
         * [Docker Quick Start ](https://linuxacademy.com/devops/training/course/name/docker-quick-start)
     *  Attended and participate in conferences, meetups and other group gatherings speaking on a variety of subjects.
-    *  Engaged students in public forums offering assistance in their education. 
+    *  Engaged students in public forums, offering assistance in their education. 
 
 
 * **Rackspace — OpenStack Technical Trainer** Jun 2017 – Jul 2018
@@ -44,16 +44,16 @@
 
 * Linux Operating System 
     * Red Hat and Debian based distros. 
-* Versioning - Github 
+* Versioning - Git
 * Understanding of Cloud Technology Concepts 
     * OpenStack, Rackspace Cloud, AWS, Azure 
 
 ## CERTIFICATIONS
 
 * OpenStack Certified Administrator 
-2015- Present
+2015
 * AWS Technical Professional Accreditation
-2016-Present
+2016
 * RedHat Certified System Administrator & Engineer 
 2014-2017
 
