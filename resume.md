@@ -2,7 +2,7 @@
 
 * **Community Architect**  Jan 2019 – Present
     * Created content for the Community
-        * [Study Groups](https://www.youtube.com/playlist?list=PLUW3LUwQvegwm3L5fxnI9eqD1SPYl-m6b)
+        * [Study Groups](https://www.youtube.com/watch?v=s2S0XBOZY_Y&list=PLTBrUPHkgPtzwY8buGaVTvAxgG97JWXK2)
         * [Study Corner](http://studycorner.live)
     * Participate in conferences, meetups and other group gatherings in a variety of subjects.
     * Participated in Jupiter Broadcasting Podcast 
@@ -31,22 +31,28 @@
 ## Skills 
 
 ### Evangalism / Adovcate 
+
 * Public Speaking 
     * [Public Talks and Engagments](https://github.com/Ellopunk/public_talks)
 * Social Networking 
+   * Social Media Promotion
 * Content Creation 
-* Social Media Promotion
-* Mentoring 
 * Project Management
+* Mentoring 
 
 
 ### Technical 
 
 * Linux Operating System 
     * Red Hat and Debian based distros. 
+    * Officail Distro Hopper 
 * Versioning - Git
 * Understanding of Cloud Technology Concepts 
-    * OpenStack, Rackspace Cloud, AWS, Azure 
+    * OpenStack
+    * Rackspace Cloud
+    * AWS
+       * AWS Lightsail
+    * Azure 
 
 ## CERTIFICATIONS
 
@@ -56,6 +62,7 @@
 2016
 * RedHat Certified System Administrator & Engineer 
 2014-2017
+
 
 ## Website(s)
 
