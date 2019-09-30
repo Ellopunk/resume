@@ -12,18 +12,21 @@
     * Develop e-learning content, including instructional videos, quizzes, and study guides.  
         * [Essential Container Concepts](https://linuxacademy.com/linux/training/course/name/essential-container-concepts)
         * [Docker Quick Start ](https://linuxacademy.com/devops/training/course/name/docker-quick-start)
+        * [Blog Articles](https://ellopunk.github.io/blog.html)
     *  Attended and participate in conferences, meetups and other group gatherings speaking on a variety of subjects.
+       * [Public Talks and Engagments](https://github.com/Ellopunk/public_talks)
     *  Engaged students in public forums, offering assistance in their education. 
 
 
 * **Rackspace — OpenStack Technical Trainer** Jun 2017 – Jul 2018
     * Created and delivered workshop content at Open Source events.
+    * Co-Lead for Openstack Mentorship program.
     * Created training material for use by training team for classroom and web-based training. 
     * Represented Rackspace Private Cloud at local, national and worldwide conferences. 
 
 
 * **Rackspace — Linux Administrator** Oct 2014 – Jul 2017
-    * Created and oversaw mentorship program.
+    * Created and Oversaw mentorship program.
     * Created and delivered brown bag training for support technicians wanting to promote to Linux administration positions. 
     * Providing customer action plans and reports based on monitoring alerts, server logs, system resources, and user feedback.
 
