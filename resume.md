@@ -61,7 +61,8 @@
 
 * OpenStack Certified Administrator 
 2015
-* AWS Technical Professional Accreditation
+* AWS Cloud Practitioner - Current
+   - AWS Technical Professional Accreditation
 2016
 * RedHat Certified System Administrator & Engineer 
 2014-2017
