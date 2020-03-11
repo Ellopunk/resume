@@ -1,6 +1,12 @@
 ## EXPERIENCE
 
-* **Community Architect**  Jan 2019 – Present
+* **A Cloud Guru- Community Architect**- January 2019 - Current
+   * Helped build name recognition in the technical community.
+   * Participated in Jupiter Broadcasting Podcast
+      * [Choose Linux](https://chooselinux.show/)
+      * [Jupiter Extras](https://extras.show/)
+
+* **Linux Academy- Community Architect**  Jan 2019 – December 2019
     * Created content for the Community
         * [Study Groups](https://www.youtube.com/watch?v=s2S0XBOZY_Y&list=PLTBrUPHkgPtzwY8buGaVTvAxgG97JWXK2)
         * [Study Corner](http://studycorner.live)
@@ -70,6 +76,5 @@
 
 ## Website(s)
 
-* [Current website project- ellslittle.website](https://ellslittle.website)
 * [Static site- ellopunk.com](http://ellopunk.com)
 
